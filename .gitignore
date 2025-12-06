@@ -1,3 +1,4 @@
+.env
 diary_server-linux-amd64
 logs
 start.sh
